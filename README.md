@@ -4,7 +4,7 @@
 
 ## 📌 Project Overview
 
-Welcome to the NASA API Implementation project! This full-stack web application utilizes NASA's public APIs to provide users with captivating Astronomy Picture Of The Day (APOD) and Mars Rover Photos. Developed as part of a 30-day development internship program, this project demonstrates the integration of various modern technologies to create a robust, secure, and user-friendly application.
+Welcome to the NASA API Implementation project! This full-stack web application utilizes NASA's public APIs to provide users with captivating Astronomy Picture Of The Day (APOD) and Mars Rover Photos. Developed as part of  development internship program, this project demonstrates the integration of various modern technologies to create a robust, secure, and user-friendly application.
 
 Discover breathtaking astronomical imagery and fascinating Mars exploration photos through an intuitive interface, complete with administrative features for data management and a comprehensive API for developers.
 
@@ -254,7 +254,7 @@ flowchart TD
   - Manage APOD entries (create, update, delete)
   - Access administrative endpoints
 
-## 📅 Development Timeline (30-Day Internship)
+## 📅 Development Timeline 
 
 ### Week 1: Project Setup and Basic Implementation
 - Day 1-2: Project structure setup and requirements analysis
