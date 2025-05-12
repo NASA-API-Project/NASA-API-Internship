@@ -1,0 +1,20 @@
+git checkout development
+git pull
+git checkout -b feature/Rishi-Raut/sprintRishi
+
+
+git remote add upstream https://github.com/Rishi-Raut/NASA-API-Internship.git
+
+
+cd /C /Users/Admin/OneDrive/Documents/Nasa-Local/NASA-API-Internship
+
+
+git checkout feature/Rishi-Raut/sprintRishi
+
+git merge development
+
+
+git add .
+git commit -m "Rishikesh did the changes"
+
+git push origin feature/Rishi-Raut/sprintRishi
